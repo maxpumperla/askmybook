@@ -1,6 +1,6 @@
 # Ask my book
 
-This si just a litle test.
+This si just a litle test; for gramar purposes.
 
 1. Create and fill in `.env` using `.env.example` as an example. You will need 
    a `RESEMBLE_API_KEY`, `OPENAI_API_KEY`, and a `SECRET_KEY` for Heroku.
